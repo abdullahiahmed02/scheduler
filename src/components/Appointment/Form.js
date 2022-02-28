@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Button from "components/Button";
 import InterviewerList from "components/InterviewerList";
-// import "components/Appointment/styles.scss"
+import "components/Appointment/styles.scss"
 
 
 export default function Form(props) {
