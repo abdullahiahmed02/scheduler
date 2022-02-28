@@ -1,5 +1,4 @@
 {
   "extends": "react-app",
-  "parser": "babel-eslint",
-  "requireConfigFile": false
+  "parser": "babel-eslint"
 }
