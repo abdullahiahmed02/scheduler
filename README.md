@@ -31,10 +31,8 @@ npm run storybook
 
 ## IMPORTANT!!! be sure to npm start the scheduler-api server before you npm start Scheduler!!!
 
-!["screenshot homepage"](https://github.com/abdullahiahmed02/scheduler/blob/master/photos/Screen%20Shot%202022-02-26%20at%201.04.14%20PM.png)
+!["screenshot homepage"](https://github.com/abdullahiahmed02/scheduler/blob/master/photos/creating%20appointments.png)
 
-
-https://github.com/abdullahiahmed02/scheduler/blob/master/photos/deleting%20appointments.png
 
 ## DESCRIPTION!!! Interview Schduler
 `` SCHEDULER is an app that allows students to book and delete appointments with a mentor between 12-5pm during weekdays``
